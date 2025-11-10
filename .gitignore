@@ -1,0 +1,6 @@
+﻿backend/data/mumbai_roads.geojson
+backend/cache/*.pkl
+**/__pycache__/
+.venv/
+*.pyc
+.env
